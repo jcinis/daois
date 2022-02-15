@@ -1,0 +1,327 @@
+[
+    {
+        "address": "0x2f61cD8f256eF199cE0cd3094Bdce77F1B7e91f5",
+        "amount": 999919599003.0,
+        "domain": "safe.crisisdao.eth"
+    },
+    {
+        "address": "0x4558e88C5a972244c995AE4DD95a84fc790355f9",
+        "amount": 3000000.0,
+        "domain": "huh.eth"
+    },
+    {
+        "address": "0x961Aa96FebeE5465149a0787B03bFa14D8e9033F",
+        "amount": 3000000.0,
+        "domain": "shazow.eth"
+    },
+    {
+        "address": "0xECaA643997033B1bA605D32748cfE9bdAd141880",
+        "amount": 3000000.0,
+        "domain": "jacobd.eth"
+    },
+    {
+        "address": "0x3a958ef7D3Dc7A0f7c98ba139359ee5c30253fbF",
+        "amount": 3000000.0,
+        "domain": null
+    },
+    {
+        "address": "0x37990C085180528eF52F55C7945eBbc5bc040E50",
+        "amount": 3000000.0,
+        "domain": "cinjon.eth"
+    },
+    {
+        "address": "0xa62f4152954c3CFbe762932512dB35F40517507b",
+        "amount": 3000000.0,
+        "domain": "nickwang.eth"
+    },
+    {
+        "address": "0xe66A9A013296C5d8B15cE092080651fcB6BCa5b9",
+        "amount": 3000000.0,
+        "domain": null
+    },
+    {
+        "address": "0x95F978fcdcdA9BdF7bdB1Eef42Fc4a4C199828CB",
+        "amount": 3000000.0,
+        "domain": null
+    },
+    {
+        "address": "0x58F43Fa86CA2fe318dDa7977391554A01133305b",
+        "amount": 3000000.0,
+        "domain": null
+    },
+    {
+        "address": "0x8eA650D831EAcA6b84360fA9db45F481E0622A1f",
+        "amount": 3000000.0,
+        "domain": "nullfame.eth"
+    },
+    {
+        "address": "0x005b661B34Cb13E4023A26048eB6440a9e1d611B",
+        "amount": 3000000.0,
+        "domain": "chtmorris.eth"
+    },
+    {
+        "address": "0xE7e84204B7e180454e5C40d0e04D346214a83f85",
+        "amount": 3000000.0,
+        "domain": "harper.eth"
+    },
+    {
+        "address": "0x476f83D33639f468D2aF660D224f9C0D2d6a1701",
+        "amount": 3000000.0,
+        "domain": "cowherdvault.eth"
+    },
+    {
+        "address": "0x21E4c2c6691B79B108756B285510cCE8A729d25A",
+        "amount": 3000000.0,
+        "domain": "kevinmiller.eth"
+    },
+    {
+        "address": "0x7fb6F52996ba02884Fd4Cd136bB2af3D8909c56C",
+        "amount": 2000000.0,
+        "domain": "leonc.eth"
+    },
+    {
+        "address": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+        "amount": 2000000.0,
+        "domain": "micahb.eth"
+    },
+    {
+        "address": "0xc93C7f71581DFEAAb59BEd908888dAC5689F312a",
+        "amount": 1500000.0,
+        "domain": "seanbonner.eth"
+    },
+    {
+        "address": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+        "amount": 1500000.0,
+        "domain": "jonruth.eth"
+    },
+    {
+        "address": "0xf553F58Ad57368D70c91d3A3117a00F005545Ed7",
+        "amount": 1500000.0,
+        "domain": "dylanr.eth"
+    },
+    {
+        "address": "0xa1DFE1d2842Bb5AD28B770eB88A9254d26488764",
+        "amount": 1500000.0,
+        "domain": null
+    },
+    {
+        "address": "0xf0e1f132BF121A10080bd8E73f85e9C091525B34",
+        "amount": 1500000.0,
+        "domain": "jordanho.eth"
+    },
+    {
+        "address": "0xBd277d616F747eC7a2bDC6CcE9d8fb69d5372453",
+        "amount": 1000000.0,
+        "domain": null
+    },
+    {
+        "address": "0x23B14aA79c10f36Ea7ec80aB624b6EA042bA3497",
+        "amount": 1000000.0,
+        "domain": null
+    },
+    {
+        "address": "0x8938C6507D9739b0F6B0B49CfdEF2D8377470aB0",
+        "amount": 1000000.0,
+        "domain": "ethelen.eth"
+    },
+    {
+        "address": "0x1C467666f27e9643561125A249DAB04Be6537BD2",
+        "amount": 1000000.0,
+        "domain": null
+    },
+    {
+        "address": "0x63FA7d321333CE697444bbea588De7C3f9812d7F",
+        "amount": 1000000.0,
+        "domain": null
+    },
+    {
+        "address": "0x9d3ea9e9adde71141f4534dB3b9B80dF3D03Ee5f",
+        "amount": 1000000.0,
+        "domain": "ccarfi.eth"
+    },
+    {
+        "address": "0xeB2629a2734e272Bcc07BDA959863f316F4bD4Cf",
+        "amount": 1000000.0,
+        "domain": null
+    },
+    {
+        "address": "0x2E25C3b15D3CD8059d009fc90537Bc78163f4dF5",
+        "amount": 1000000.0,
+        "domain": "robrob.eth"
+    },
+    {
+        "address": "0x13783136336932a54ae5a5939b237F78AE369036",
+        "amount": 1000000.0,
+        "domain": "ericnakagawa.eth"
+    },
+    {
+        "address": "0xB6a4BF1C99314c54C62ce2F7643E6B7eBE0Fe179",
+        "amount": 1000000.0,
+        "domain": "shawnimals.eth"
+    },
+    {
+        "address": "0xE11b9aCCB982800E0B2A76BDD135836d393F92E9",
+        "amount": 1000000.0,
+        "domain": "jcinis.eth"
+    },
+    {
+        "address": "0x5D57a0F243615177FD26427B323a1fbeC433B865",
+        "amount": 1000000.0,
+        "domain": "tensafefrogs.eth"
+    },
+    {
+        "address": "0x939120EC81c23495EC4FeFd01adA0BAA1ced095a",
+        "amount": 1000000.0,
+        "domain": "sig9ine.eth"
+    },
+    {
+        "address": "0x20FCB185AC2D5F9795779E8CC6C0ec37F97c7a8C",
+        "amount": 950000.0,
+        "domain": "tolar.eth"
+    },
+    {
+        "address": "0xcb50aD7d82021Bd6b1EC3a9cC5E6fbB9398F5c59",
+        "amount": 744400.0,
+        "domain": "trueman.eth"
+    },
+    {
+        "address": "0xD9C4475E2dd89a9a0aD0C1E9a1e1bb28Df7BA298",
+        "amount": 666667.0,
+        "domain": "jamiedubs.eth"
+    },
+    {
+        "address": "0xb3d89CE6002e17812adb8F7E5D7ec6CD7CB84C75",
+        "amount": 500000.0,
+        "domain": "tarabrown.eth"
+    },
+    {
+        "address": "0x0cF9Db77cE49dA0838834D505566eB077dBE2475",
+        "amount": 500000.0,
+        "domain": "triciawang.eth"
+    },
+    {
+        "address": "0x0A4cF822777BE3558233C2420978EB40d0f85D88",
+        "amount": 500000.0,
+        "domain": "lynette.eth"
+    },
+    {
+        "address": "0x77492FCF153F992cF3fe2B832E83AbE56D8F8944",
+        "amount": 500000.0,
+        "domain": null
+    },
+    {
+        "address": "0x72058F7295D97E2D98e2D1D198aC7DA4eFE26764",
+        "amount": 500000.0,
+        "domain": null
+    },
+    {
+        "address": "0x5328DE364006F6E2be8eA2c4D28E3Dd349B3d257",
+        "amount": 500000.0,
+        "domain": "hadjar.eth"
+    },
+    {
+        "address": "0x0bF1F46866bcEF673Aa8Dc080a2409ff73B6718D",
+        "amount": 500000.0,
+        "domain": "jhudson.eth"
+    },
+    {
+        "address": "0x5D334bF9D32c6Bf5655De7479b34Fa0d0C44bfF3",
+        "amount": 500000.0,
+        "domain": "dylanreed.eth"
+    },
+    {
+        "address": "0x5D9B59eF830feCdeC7CBF5128CD288Ff7e66Da98",
+        "amount": 500000.0,
+        "domain": null
+    },
+    {
+        "address": "0x2b0D29fFA81fa6Bf35D31db7C3bc11a5913B45ef",
+        "amount": 500000.0,
+        "domain": "matt.galligan.eth"
+    },
+    {
+        "address": "0x0090720FeD7Fed66eD658118b7B3BB0189D3A495",
+        "amount": 500000.0,
+        "domain": "sammybauch.eth"
+    },
+    {
+        "address": "0x1212d8F2a7fD2CF4Ce717053193B2d90660FE646",
+        "amount": 500000.0,
+        "domain": "marma.eth"
+    },
+    {
+        "address": "0xDF318c14c0C335798aC7F7601503b75f8Fcb873D",
+        "amount": 500000.0,
+        "domain": null
+    },
+    {
+        "address": "0x7BC17DDE3Ad2BB060CEBA0C55227f5D340bC3FBf",
+        "amount": 500000.0,
+        "domain": null
+    },
+    {
+        "address": "0xDB6c917a221b2A44150e5Cf9B7C511f5e8483cAd",
+        "amount": 500000.0,
+        "domain": "kurs.eth"
+    },
+    {
+        "address": "0x2d852EaDb401Df5700a2D964883e6e7ED2DF5bf6",
+        "amount": 373267.0,
+        "domain": null
+    },
+    {
+        "address": "0x9a188C9b9fA408D47A97b90f5973170f81D2C196",
+        "amount": 333333.0,
+        "domain": "aaronsalmon.eth"
+    },
+    {
+        "address": "0x5348b43345d487ed68Ae333CE8aBC113A2a55280",
+        "amount": 333333.0,
+        "domain": "bhbryant.eth"
+    },
+    {
+        "address": "0x8663dc02812630B5AeBAd64DA5285a7Bd06Fdab3",
+        "amount": 333333.0,
+        "domain": null
+    },
+    {
+        "address": "0xFd85191D21dD299E4Ad7C77aE2970f704B43072a",
+        "amount": 333333.0,
+        "domain": "takayuki.eth"
+    },
+    {
+        "address": "0xdB433d447b8389D0614Bf4f7d479f2436F002D87",
+        "amount": 333333.0,
+        "domain": null
+    },
+    {
+        "address": "0x4e2E1325e08366079b29C7c9FcC1fE0140F89Af4",
+        "amount": 333333.0,
+        "domain": "collier.eth"
+    },
+    {
+        "address": "0x8b57627F69D2dF512953Fb54Fe3e75142cF531DE",
+        "amount": 333333.0,
+        "domain": "yoyomaster.eth"
+    },
+    {
+        "address": "0x294AF33e5590725f684De80d88E72009b1AB6F76",
+        "amount": 333333.0,
+        "domain": "trotzke.eth"
+    },
+    {
+        "address": "0x1867F24164d92684c71620C40AEfBCb519d4EBe5",
+        "amount": 333333.0,
+        "domain": "petesoder.eth"
+    },
+    {
+        "address": "0x29059F184Faa0A32C83971c8951829C8BE27D3f3",
+        "amount": 333333.0,
+        "domain": "scottbeale.eth"
+    },
+    {
+        "address": "0xD8341CCdbd5367C7FdfBEF6ac0Fc1C2A74CA9A96",
+        "amount": 333333.0,
+        "domain": null
+    }
+]
