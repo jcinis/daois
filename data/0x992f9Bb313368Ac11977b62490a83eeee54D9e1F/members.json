@@ -1,7 +1,7 @@
 [
     {
         "address": "0x2f61cD8f256eF199cE0cd3094Bdce77F1B7e91f5",
-        "amount": 999919599003.0,
+        "amount": 999918265669.0,
         "domain": "safe.crisisdao.eth"
     },
     {
@@ -37,7 +37,7 @@
     {
         "address": "0xe66A9A013296C5d8B15cE092080651fcB6BCa5b9",
         "amount": 3000000.0,
-        "domain": null
+        "domain": "williewilliams.eth"
     },
     {
         "address": "0x95F978fcdcdA9BdF7bdB1Eef42Fc4a4C199828CB",
@@ -175,6 +175,11 @@
         "domain": "sig9ine.eth"
     },
     {
+        "address": "0x3A12479FdB2F692E399224464B1484dd78947918",
+        "amount": 1000000.0,
+        "domain": "srobbin.eth"
+    },
+    {
         "address": "0x20FCB185AC2D5F9795779E8CC6C0ec37F97c7a8C",
         "amount": 950000.0,
         "domain": "tolar.eth"
@@ -190,11 +195,6 @@
         "domain": "jamiedubs.eth"
     },
     {
-        "address": "0xb3d89CE6002e17812adb8F7E5D7ec6CD7CB84C75",
-        "amount": 500000.0,
-        "domain": "tarabrown.eth"
-    },
-    {
         "address": "0x0cF9Db77cE49dA0838834D505566eB077dBE2475",
         "amount": 500000.0,
         "domain": "triciawang.eth"
@@ -202,7 +202,7 @@
     {
         "address": "0x0A4cF822777BE3558233C2420978EB40d0f85D88",
         "amount": 500000.0,
-        "domain": "lynette.eth"
+        "domain": "lynettexyz.eth"
     },
     {
         "address": "0x77492FCF153F992cF3fe2B832E83AbE56D8F8944",
@@ -260,19 +260,29 @@
         "domain": null
     },
     {
+        "address": "0x9a188C9b9fA408D47A97b90f5973170f81D2C196",
+        "amount": 500000.0,
+        "domain": "aaronsalmon.eth"
+    },
+    {
         "address": "0xDB6c917a221b2A44150e5Cf9B7C511f5e8483cAd",
         "amount": 500000.0,
         "domain": "kurs.eth"
     },
     {
+        "address": "0x294AF33e5590725f684De80d88E72009b1AB6F76",
+        "amount": 500000.0,
+        "domain": "trotzke.eth"
+    },
+    {
+        "address": "0x781B0B5741f0c74e9657237C379E07023DA59886",
+        "amount": 500000.0,
+        "domain": "tarabrown.eth"
+    },
+    {
         "address": "0x2d852EaDb401Df5700a2D964883e6e7ED2DF5bf6",
         "amount": 373267.0,
         "domain": null
-    },
-    {
-        "address": "0x9a188C9b9fA408D47A97b90f5973170f81D2C196",
-        "amount": 333333.0,
-        "domain": "aaronsalmon.eth"
     },
     {
         "address": "0x5348b43345d487ed68Ae333CE8aBC113A2a55280",
@@ -303,11 +313,6 @@
         "address": "0x8b57627F69D2dF512953Fb54Fe3e75142cF531DE",
         "amount": 333333.0,
         "domain": "yoyomaster.eth"
-    },
-    {
-        "address": "0x294AF33e5590725f684De80d88E72009b1AB6F76",
-        "amount": 333333.0,
-        "domain": "trotzke.eth"
     },
     {
         "address": "0x1867F24164d92684c71620C40AEfBCb519d4EBe5",
