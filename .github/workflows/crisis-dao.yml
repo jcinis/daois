@@ -1,0 +1,12 @@
+name: CrisisDAO Members
+on:
+  schedule:
+    - cron: "0 15 * * *"
+  workflow_dispatch:
+jobs:
+  crisisdao:
+    uses: jcinis/daois/.github/workflows/holders.yml@main
+    with:
+      address: "0x992f9Bb313368Ac11977b62490a83eeee54D9e1F"
+    secrets:
+      ETHEREUM_NODE: ${{secrets.ETHEREUM_NODE}}
